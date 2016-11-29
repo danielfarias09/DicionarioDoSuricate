@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dicionário do Suricate</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_listar_palavras">Todas as Palavras</string>
+    <string name="title_activity_significado">Tia da Escola Explica</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7173661742470104/9261010079</string>
+</resources>
